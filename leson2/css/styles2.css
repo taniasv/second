@@ -1,0 +1,51 @@
+.body {
+    margin: 2px;
+}
+
+.mother {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+
+}
+
+.father {
+    display: flex;
+
+
+}
+
+.box {
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+    margin-bottom: 2px;
+    margin-top: 2px;
+    margin-left: 2px;
+    margin-right: 2px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: honeydew;
+    font-size: xx-large;
+
+
+}
+
+.first-box {
+    height: 200px;
+    width: 610px;
+    background-color: darkblue;
+    justify-content: center;
+    font-size: x-large;
+}
+
+.last-box {
+    height: 400px;
+    width: 610px;
+    background-color: darkblue;
+    font-size: x-large;
+
+}
